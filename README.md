@@ -25,8 +25,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** |IHSAN RANGGA MAHENDRA |
-| **NIM** | 312310494 |
+| **Nama** |CARLOS LOUIS FERNANDO |
+| **NIM** | 312310458 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
